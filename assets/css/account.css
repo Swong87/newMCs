@@ -1,0 +1,28 @@
+#needList a, #wantList a{
+	margin-left: 15px;
+}
+
+#account{
+	padding: 10px 50px;
+}
+
+#account p{
+	font-size: 16px;
+	padding: 15px;
+}
+
+.barHolder{
+    width: 100%;
+    background: black;
+    padding: 2px;
+    height: 30px;
+}
+
+.progressBar{
+    width: 0%;
+    background: blue;
+    height: 100%;
+}
+#userProfileLink, .projectLink{
+	word-wrap: break-word;
+}
